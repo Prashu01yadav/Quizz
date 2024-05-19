@@ -23,10 +23,10 @@ const questions =[
         question:" which is the largest desert in the world",
         answer:[
         
-            {text:"shahara", correct:"false"},
+            {text:"shahara", correct:"true"},
             {text:"Kalahari", correct:"false"},
             {text:"Gobi", correct:"false"},
-            {text:"Thar", correct:"true"},
+            {text:"Thar", correct:"false"},
         ]
     },
     {
@@ -55,7 +55,7 @@ const questions =[
         
             {text:"Viswa bangla", correct:"false"},
             {text:"Burj khalifa", correct:"true"},
-            {text:"Mia khalifa", correct:"false"},
+            {text:"Lux", correct:"false"},
             {text:"Antilia", correct:"false"},
         ]
     },
