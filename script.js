@@ -30,7 +30,7 @@ const questions =[
         ]
     },
     {
-        question:" Biggest randi khana lies in...",
+        question:" Biggest cultural economy  lies in...",
         answer:[
         
             {text:"Pakistan", correct:"false"},
@@ -40,7 +40,7 @@ const questions =[
         ]
     },
     {
-        question:" who is the biggest randibaaz in the Dilip chaudhaery mess?",
+        question:" who is the biggest thief in the Dilip chaudhaery mess?",
         answer:[
         
             {text:"Maviya", correct:"false"},
